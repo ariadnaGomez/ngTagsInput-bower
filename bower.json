@@ -1,0 +1,20 @@
+{
+  "name": "ng-tag-input",
+  "license": "MIT",
+  "version": "0.2",
+  "location": "https://github.com/ariadnaGomez/ngTagsInput-bower",
+  "main": [
+    "ng-tags-input.js",
+    "ng-tags-input.css"
+  ],
+  "description": "Tags input directive for AngularJS",
+  "ignore": [],
+  "keywords": [
+    "angular",
+    "tags",
+    "tags-input"
+  ],
+  "dependencies": {
+    "angular": ">=1.3.0"
+  }
+}
